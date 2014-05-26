@@ -21,7 +21,7 @@ SBT Dependency
 
 To use Kaptcha in a sbt based project use:
 
-```sbt
+```scala
 resolvers += "nuvo.io maven repo" at "http://nuvo-io.github.com/mvn-repo/releases"
 libraryDependencies += "io.nuvo.kaptcha" % "kaptcha_2.11" % "2.3.3"
 ```
