@@ -33,7 +33,7 @@ To use Kaptcha in a mvn based project use:
 
 ```xml
 <dependency>
-    <groupId>io.nuvo</groupId>
+    <groupId>io.nuvo.kaptcha</groupId>
     <artifactId>kaptcha_2.11</artifactId>
     <version>2.3.3</version>
 </dependency>
